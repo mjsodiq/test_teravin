@@ -1,4 +1,4 @@
-# TEST TERRAVIN
+# Cara menjalankan
 
 Step by step cara untuk menjalankan : 
 1. clone repository ini
@@ -11,3 +11,5 @@ Step by step cara untuk menjalankan :
   - install dependencies (npm install)
   - jalankan aplikasi client (npm start)
 4. aplikasi siap diuji coba
+
+File ini hanya untuk kepentingan test di PT. Teravin Technovations

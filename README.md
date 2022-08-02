@@ -1,4 +1,4 @@
-# test_teravin
+# TEST TERRAVIN
 
 Step by step cara untuk menjalankan : 
 1. clone repository ini
